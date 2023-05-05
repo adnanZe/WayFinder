@@ -6,7 +6,7 @@ import TheHeader from "./components/TheHeader.vue";
 <template>
   <v-app>
     <v-main>
-      <TheHeader />
+      <the-header />
       <HelloWorld />
     </v-main>
   </v-app>
